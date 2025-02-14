@@ -3,7 +3,8 @@
 
 #include <iostream>
 #include <algorithm>
-#include <stdexcept>
+#include <iterator>
+#include <vector>
 
 template <typename T>
 void easyfind(T &container, int value){
